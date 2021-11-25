@@ -10,7 +10,7 @@ Analyzed a subset of Yelp's business, reviews and user data. This dataset comes 
   
 **Run Spark Cluster Tasks via Jupyter Notebook** 
 
-**Read the dataset through S3 Buckets
+**Read the dataset through S3 Buckets**
 
 ## Analysis
   Part I: Installation and Initial Setup   
