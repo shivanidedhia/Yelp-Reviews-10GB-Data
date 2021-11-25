@@ -4,12 +4,22 @@ Analyzed a subset of Yelp's business, reviews and user data. This dataset comes 
 
 ## Technology Used
 
-Create a Cluster on AWS EMR
+**Create a Cluster on AWS EMR**  
+  * Provision the hardware  
+  * Configure Jupyter Notebook connected to the cluster
+  
+**Run Spark Cluster Tasks via Jupyter Notebook** 
 
-Provision the hardware
-Configure Jupyter Notebook connected to the cluster
-Run Spark Cluster Tasks via Jupyter Notebook
-Read dataset through S3 buckets
+**Read the dataset through S3 Buckets
+
+## Analysis
+  Part I: Installation and Initial Setup   
+  
+  Part II: Analyzing Categories (Business dataset)    
+  
+  Part III:  Do Yelp Reviews biased from the average rating? (Review dataset)  
+  
+  Part IV: Analzing Users (User dataset)
 
 ## Cluster and Notebook Configs
 
